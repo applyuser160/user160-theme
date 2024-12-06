@@ -1,0 +1,21 @@
+{
+  "name": "user160-theme",
+  "displayName": "user160-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "user160",
+        "uiTheme": "vs-dark",
+        "path": "./themes/user160-color-theme.json"
+      }
+    ]
+  }
+}
