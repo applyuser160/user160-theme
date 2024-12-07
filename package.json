@@ -2,7 +2,7 @@
   "name": "user160-theme",
   "displayName": "user160-theme",
   "description": "",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "publisher": "user160-theme",
   "engines": {
     "vscode": "^1.93.0"
