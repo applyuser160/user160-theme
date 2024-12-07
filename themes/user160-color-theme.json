@@ -1,9 +1,9 @@
 {
 	"name": "user160",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#040505",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
+		"activityBarBadge.background": "#cc0000",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
@@ -15,7 +15,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#bf39b2"
 			}
 		},
 		{
@@ -44,7 +44,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#e81818"
 			}
 		},
 		{
@@ -209,7 +209,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF5370"
+				"foreground": "#FF5370",
 			}
 		},
 		{
